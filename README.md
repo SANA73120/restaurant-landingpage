@@ -1,2 +1,2 @@
 # restaurant-landingpage
-here I am going to make landing page
+here I am going to make landing page of restaurant
